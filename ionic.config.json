@@ -1,0 +1,7 @@
+{
+  "name": "LohnerGil_Uebungen1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
